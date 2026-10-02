@@ -24,7 +24,7 @@ A final **Trust Score (0–100)** and verdict — `Safe`, `Suspicious`, or `Dang
 | Layer | Technology |
 |-------|-----------|
 | Backend | Python, Flask |
-| AI Engine | Google Gemini 3.5 Flash (`gemini-3.5-flash`) |
+| AI Engine | Google Gemini 2.5 Flash (`gemini-2.5-flash`) |
 | Frontend | HTML, CSS, Vanilla JS |
 | Environment | python-dotenv |
 
